@@ -1,8 +1,4 @@
-//
-// Simulator for UIC 1.0, a very simple computer language.
-//
-// Author: Muhammad Wasiuddin Hakim, U. of Illinois Chicago, Fall 2020
-//
+
 
 // Including Libraries 
 #include <iostream>
